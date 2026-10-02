@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SIS",
+    "BBB",
+    "SCS"
+  ],
+  "key": {
+    "S": {
+      "item": "create:iron_sheet"
+    },
+    "I": {
+      "item": "powergrid:integrated_circuit"
+    },
+    "B": {
+      "item": "powergrid:battery"
+    },
+    "C": {
+      "item": "create:brass_casing"
+    }
+  },
+  "result": {
+    "id": "mws:ups",
+    "count": 1
+  }
+}

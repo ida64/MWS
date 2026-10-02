@@ -1,0 +1,1504 @@
+{
+  "variants": {
+    "facing=north,status=off,blades=0,section=single": {
+      "model": "mws:block/server_rack_off_0_single"
+    },
+    "facing=east,status=off,blades=0,section=single": {
+      "model": "mws:block/server_rack_off_0_single",
+      "y": 90
+    },
+    "facing=south,status=off,blades=0,section=single": {
+      "model": "mws:block/server_rack_off_0_single",
+      "y": 180
+    },
+    "facing=west,status=off,blades=0,section=single": {
+      "model": "mws:block/server_rack_off_0_single",
+      "y": 270
+    },
+    "facing=north,status=off,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_off_0_bottom"
+    },
+    "facing=east,status=off,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_off_0_bottom",
+      "y": 90
+    },
+    "facing=south,status=off,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_off_0_bottom",
+      "y": 180
+    },
+    "facing=west,status=off,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_off_0_bottom",
+      "y": 270
+    },
+    "facing=north,status=off,blades=0,section=middle": {
+      "model": "mws:block/server_rack_off_0_middle"
+    },
+    "facing=east,status=off,blades=0,section=middle": {
+      "model": "mws:block/server_rack_off_0_middle",
+      "y": 90
+    },
+    "facing=south,status=off,blades=0,section=middle": {
+      "model": "mws:block/server_rack_off_0_middle",
+      "y": 180
+    },
+    "facing=west,status=off,blades=0,section=middle": {
+      "model": "mws:block/server_rack_off_0_middle",
+      "y": 270
+    },
+    "facing=north,status=off,blades=0,section=top": {
+      "model": "mws:block/server_rack_off_0_top"
+    },
+    "facing=east,status=off,blades=0,section=top": {
+      "model": "mws:block/server_rack_off_0_top",
+      "y": 90
+    },
+    "facing=south,status=off,blades=0,section=top": {
+      "model": "mws:block/server_rack_off_0_top",
+      "y": 180
+    },
+    "facing=west,status=off,blades=0,section=top": {
+      "model": "mws:block/server_rack_off_0_top",
+      "y": 270
+    },
+    "facing=north,status=off,blades=1,section=single": {
+      "model": "mws:block/server_rack_off_1_single"
+    },
+    "facing=east,status=off,blades=1,section=single": {
+      "model": "mws:block/server_rack_off_1_single",
+      "y": 90
+    },
+    "facing=south,status=off,blades=1,section=single": {
+      "model": "mws:block/server_rack_off_1_single",
+      "y": 180
+    },
+    "facing=west,status=off,blades=1,section=single": {
+      "model": "mws:block/server_rack_off_1_single",
+      "y": 270
+    },
+    "facing=north,status=off,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_off_1_bottom"
+    },
+    "facing=east,status=off,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_off_1_bottom",
+      "y": 90
+    },
+    "facing=south,status=off,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_off_1_bottom",
+      "y": 180
+    },
+    "facing=west,status=off,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_off_1_bottom",
+      "y": 270
+    },
+    "facing=north,status=off,blades=1,section=middle": {
+      "model": "mws:block/server_rack_off_1_middle"
+    },
+    "facing=east,status=off,blades=1,section=middle": {
+      "model": "mws:block/server_rack_off_1_middle",
+      "y": 90
+    },
+    "facing=south,status=off,blades=1,section=middle": {
+      "model": "mws:block/server_rack_off_1_middle",
+      "y": 180
+    },
+    "facing=west,status=off,blades=1,section=middle": {
+      "model": "mws:block/server_rack_off_1_middle",
+      "y": 270
+    },
+    "facing=north,status=off,blades=1,section=top": {
+      "model": "mws:block/server_rack_off_1_top"
+    },
+    "facing=east,status=off,blades=1,section=top": {
+      "model": "mws:block/server_rack_off_1_top",
+      "y": 90
+    },
+    "facing=south,status=off,blades=1,section=top": {
+      "model": "mws:block/server_rack_off_1_top",
+      "y": 180
+    },
+    "facing=west,status=off,blades=1,section=top": {
+      "model": "mws:block/server_rack_off_1_top",
+      "y": 270
+    },
+    "facing=north,status=off,blades=2,section=single": {
+      "model": "mws:block/server_rack_off_2_single"
+    },
+    "facing=east,status=off,blades=2,section=single": {
+      "model": "mws:block/server_rack_off_2_single",
+      "y": 90
+    },
+    "facing=south,status=off,blades=2,section=single": {
+      "model": "mws:block/server_rack_off_2_single",
+      "y": 180
+    },
+    "facing=west,status=off,blades=2,section=single": {
+      "model": "mws:block/server_rack_off_2_single",
+      "y": 270
+    },
+    "facing=north,status=off,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_off_2_bottom"
+    },
+    "facing=east,status=off,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_off_2_bottom",
+      "y": 90
+    },
+    "facing=south,status=off,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_off_2_bottom",
+      "y": 180
+    },
+    "facing=west,status=off,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_off_2_bottom",
+      "y": 270
+    },
+    "facing=north,status=off,blades=2,section=middle": {
+      "model": "mws:block/server_rack_off_2_middle"
+    },
+    "facing=east,status=off,blades=2,section=middle": {
+      "model": "mws:block/server_rack_off_2_middle",
+      "y": 90
+    },
+    "facing=south,status=off,blades=2,section=middle": {
+      "model": "mws:block/server_rack_off_2_middle",
+      "y": 180
+    },
+    "facing=west,status=off,blades=2,section=middle": {
+      "model": "mws:block/server_rack_off_2_middle",
+      "y": 270
+    },
+    "facing=north,status=off,blades=2,section=top": {
+      "model": "mws:block/server_rack_off_2_top"
+    },
+    "facing=east,status=off,blades=2,section=top": {
+      "model": "mws:block/server_rack_off_2_top",
+      "y": 90
+    },
+    "facing=south,status=off,blades=2,section=top": {
+      "model": "mws:block/server_rack_off_2_top",
+      "y": 180
+    },
+    "facing=west,status=off,blades=2,section=top": {
+      "model": "mws:block/server_rack_off_2_top",
+      "y": 270
+    },
+    "facing=north,status=off,blades=3,section=single": {
+      "model": "mws:block/server_rack_off_3_single"
+    },
+    "facing=east,status=off,blades=3,section=single": {
+      "model": "mws:block/server_rack_off_3_single",
+      "y": 90
+    },
+    "facing=south,status=off,blades=3,section=single": {
+      "model": "mws:block/server_rack_off_3_single",
+      "y": 180
+    },
+    "facing=west,status=off,blades=3,section=single": {
+      "model": "mws:block/server_rack_off_3_single",
+      "y": 270
+    },
+    "facing=north,status=off,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_off_3_bottom"
+    },
+    "facing=east,status=off,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_off_3_bottom",
+      "y": 90
+    },
+    "facing=south,status=off,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_off_3_bottom",
+      "y": 180
+    },
+    "facing=west,status=off,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_off_3_bottom",
+      "y": 270
+    },
+    "facing=north,status=off,blades=3,section=middle": {
+      "model": "mws:block/server_rack_off_3_middle"
+    },
+    "facing=east,status=off,blades=3,section=middle": {
+      "model": "mws:block/server_rack_off_3_middle",
+      "y": 90
+    },
+    "facing=south,status=off,blades=3,section=middle": {
+      "model": "mws:block/server_rack_off_3_middle",
+      "y": 180
+    },
+    "facing=west,status=off,blades=3,section=middle": {
+      "model": "mws:block/server_rack_off_3_middle",
+      "y": 270
+    },
+    "facing=north,status=off,blades=3,section=top": {
+      "model": "mws:block/server_rack_off_3_top"
+    },
+    "facing=east,status=off,blades=3,section=top": {
+      "model": "mws:block/server_rack_off_3_top",
+      "y": 90
+    },
+    "facing=south,status=off,blades=3,section=top": {
+      "model": "mws:block/server_rack_off_3_top",
+      "y": 180
+    },
+    "facing=west,status=off,blades=3,section=top": {
+      "model": "mws:block/server_rack_off_3_top",
+      "y": 270
+    },
+    "facing=north,status=off,blades=4,section=single": {
+      "model": "mws:block/server_rack_off_4_single"
+    },
+    "facing=east,status=off,blades=4,section=single": {
+      "model": "mws:block/server_rack_off_4_single",
+      "y": 90
+    },
+    "facing=south,status=off,blades=4,section=single": {
+      "model": "mws:block/server_rack_off_4_single",
+      "y": 180
+    },
+    "facing=west,status=off,blades=4,section=single": {
+      "model": "mws:block/server_rack_off_4_single",
+      "y": 270
+    },
+    "facing=north,status=off,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_off_4_bottom"
+    },
+    "facing=east,status=off,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_off_4_bottom",
+      "y": 90
+    },
+    "facing=south,status=off,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_off_4_bottom",
+      "y": 180
+    },
+    "facing=west,status=off,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_off_4_bottom",
+      "y": 270
+    },
+    "facing=north,status=off,blades=4,section=middle": {
+      "model": "mws:block/server_rack_off_4_middle"
+    },
+    "facing=east,status=off,blades=4,section=middle": {
+      "model": "mws:block/server_rack_off_4_middle",
+      "y": 90
+    },
+    "facing=south,status=off,blades=4,section=middle": {
+      "model": "mws:block/server_rack_off_4_middle",
+      "y": 180
+    },
+    "facing=west,status=off,blades=4,section=middle": {
+      "model": "mws:block/server_rack_off_4_middle",
+      "y": 270
+    },
+    "facing=north,status=off,blades=4,section=top": {
+      "model": "mws:block/server_rack_off_4_top"
+    },
+    "facing=east,status=off,blades=4,section=top": {
+      "model": "mws:block/server_rack_off_4_top",
+      "y": 90
+    },
+    "facing=south,status=off,blades=4,section=top": {
+      "model": "mws:block/server_rack_off_4_top",
+      "y": 180
+    },
+    "facing=west,status=off,blades=4,section=top": {
+      "model": "mws:block/server_rack_off_4_top",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=0,section=single": {
+      "model": "mws:block/server_rack_booting_0_single"
+    },
+    "facing=east,status=booting,blades=0,section=single": {
+      "model": "mws:block/server_rack_booting_0_single",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=0,section=single": {
+      "model": "mws:block/server_rack_booting_0_single",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=0,section=single": {
+      "model": "mws:block/server_rack_booting_0_single",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_booting_0_bottom"
+    },
+    "facing=east,status=booting,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_booting_0_bottom",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_booting_0_bottom",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_booting_0_bottom",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=0,section=middle": {
+      "model": "mws:block/server_rack_booting_0_middle"
+    },
+    "facing=east,status=booting,blades=0,section=middle": {
+      "model": "mws:block/server_rack_booting_0_middle",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=0,section=middle": {
+      "model": "mws:block/server_rack_booting_0_middle",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=0,section=middle": {
+      "model": "mws:block/server_rack_booting_0_middle",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=0,section=top": {
+      "model": "mws:block/server_rack_booting_0_top"
+    },
+    "facing=east,status=booting,blades=0,section=top": {
+      "model": "mws:block/server_rack_booting_0_top",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=0,section=top": {
+      "model": "mws:block/server_rack_booting_0_top",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=0,section=top": {
+      "model": "mws:block/server_rack_booting_0_top",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=1,section=single": {
+      "model": "mws:block/server_rack_booting_1_single"
+    },
+    "facing=east,status=booting,blades=1,section=single": {
+      "model": "mws:block/server_rack_booting_1_single",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=1,section=single": {
+      "model": "mws:block/server_rack_booting_1_single",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=1,section=single": {
+      "model": "mws:block/server_rack_booting_1_single",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_booting_1_bottom"
+    },
+    "facing=east,status=booting,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_booting_1_bottom",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_booting_1_bottom",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_booting_1_bottom",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=1,section=middle": {
+      "model": "mws:block/server_rack_booting_1_middle"
+    },
+    "facing=east,status=booting,blades=1,section=middle": {
+      "model": "mws:block/server_rack_booting_1_middle",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=1,section=middle": {
+      "model": "mws:block/server_rack_booting_1_middle",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=1,section=middle": {
+      "model": "mws:block/server_rack_booting_1_middle",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=1,section=top": {
+      "model": "mws:block/server_rack_booting_1_top"
+    },
+    "facing=east,status=booting,blades=1,section=top": {
+      "model": "mws:block/server_rack_booting_1_top",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=1,section=top": {
+      "model": "mws:block/server_rack_booting_1_top",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=1,section=top": {
+      "model": "mws:block/server_rack_booting_1_top",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=2,section=single": {
+      "model": "mws:block/server_rack_booting_2_single"
+    },
+    "facing=east,status=booting,blades=2,section=single": {
+      "model": "mws:block/server_rack_booting_2_single",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=2,section=single": {
+      "model": "mws:block/server_rack_booting_2_single",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=2,section=single": {
+      "model": "mws:block/server_rack_booting_2_single",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_booting_2_bottom"
+    },
+    "facing=east,status=booting,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_booting_2_bottom",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_booting_2_bottom",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_booting_2_bottom",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=2,section=middle": {
+      "model": "mws:block/server_rack_booting_2_middle"
+    },
+    "facing=east,status=booting,blades=2,section=middle": {
+      "model": "mws:block/server_rack_booting_2_middle",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=2,section=middle": {
+      "model": "mws:block/server_rack_booting_2_middle",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=2,section=middle": {
+      "model": "mws:block/server_rack_booting_2_middle",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=2,section=top": {
+      "model": "mws:block/server_rack_booting_2_top"
+    },
+    "facing=east,status=booting,blades=2,section=top": {
+      "model": "mws:block/server_rack_booting_2_top",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=2,section=top": {
+      "model": "mws:block/server_rack_booting_2_top",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=2,section=top": {
+      "model": "mws:block/server_rack_booting_2_top",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=3,section=single": {
+      "model": "mws:block/server_rack_booting_3_single"
+    },
+    "facing=east,status=booting,blades=3,section=single": {
+      "model": "mws:block/server_rack_booting_3_single",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=3,section=single": {
+      "model": "mws:block/server_rack_booting_3_single",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=3,section=single": {
+      "model": "mws:block/server_rack_booting_3_single",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_booting_3_bottom"
+    },
+    "facing=east,status=booting,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_booting_3_bottom",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_booting_3_bottom",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_booting_3_bottom",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=3,section=middle": {
+      "model": "mws:block/server_rack_booting_3_middle"
+    },
+    "facing=east,status=booting,blades=3,section=middle": {
+      "model": "mws:block/server_rack_booting_3_middle",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=3,section=middle": {
+      "model": "mws:block/server_rack_booting_3_middle",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=3,section=middle": {
+      "model": "mws:block/server_rack_booting_3_middle",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=3,section=top": {
+      "model": "mws:block/server_rack_booting_3_top"
+    },
+    "facing=east,status=booting,blades=3,section=top": {
+      "model": "mws:block/server_rack_booting_3_top",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=3,section=top": {
+      "model": "mws:block/server_rack_booting_3_top",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=3,section=top": {
+      "model": "mws:block/server_rack_booting_3_top",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=4,section=single": {
+      "model": "mws:block/server_rack_booting_4_single"
+    },
+    "facing=east,status=booting,blades=4,section=single": {
+      "model": "mws:block/server_rack_booting_4_single",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=4,section=single": {
+      "model": "mws:block/server_rack_booting_4_single",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=4,section=single": {
+      "model": "mws:block/server_rack_booting_4_single",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_booting_4_bottom"
+    },
+    "facing=east,status=booting,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_booting_4_bottom",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_booting_4_bottom",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_booting_4_bottom",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=4,section=middle": {
+      "model": "mws:block/server_rack_booting_4_middle"
+    },
+    "facing=east,status=booting,blades=4,section=middle": {
+      "model": "mws:block/server_rack_booting_4_middle",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=4,section=middle": {
+      "model": "mws:block/server_rack_booting_4_middle",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=4,section=middle": {
+      "model": "mws:block/server_rack_booting_4_middle",
+      "y": 270
+    },
+    "facing=north,status=booting,blades=4,section=top": {
+      "model": "mws:block/server_rack_booting_4_top"
+    },
+    "facing=east,status=booting,blades=4,section=top": {
+      "model": "mws:block/server_rack_booting_4_top",
+      "y": 90
+    },
+    "facing=south,status=booting,blades=4,section=top": {
+      "model": "mws:block/server_rack_booting_4_top",
+      "y": 180
+    },
+    "facing=west,status=booting,blades=4,section=top": {
+      "model": "mws:block/server_rack_booting_4_top",
+      "y": 270
+    },
+    "facing=north,status=online,blades=0,section=single": {
+      "model": "mws:block/server_rack_online_0_single"
+    },
+    "facing=east,status=online,blades=0,section=single": {
+      "model": "mws:block/server_rack_online_0_single",
+      "y": 90
+    },
+    "facing=south,status=online,blades=0,section=single": {
+      "model": "mws:block/server_rack_online_0_single",
+      "y": 180
+    },
+    "facing=west,status=online,blades=0,section=single": {
+      "model": "mws:block/server_rack_online_0_single",
+      "y": 270
+    },
+    "facing=north,status=online,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_online_0_bottom"
+    },
+    "facing=east,status=online,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_online_0_bottom",
+      "y": 90
+    },
+    "facing=south,status=online,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_online_0_bottom",
+      "y": 180
+    },
+    "facing=west,status=online,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_online_0_bottom",
+      "y": 270
+    },
+    "facing=north,status=online,blades=0,section=middle": {
+      "model": "mws:block/server_rack_online_0_middle"
+    },
+    "facing=east,status=online,blades=0,section=middle": {
+      "model": "mws:block/server_rack_online_0_middle",
+      "y": 90
+    },
+    "facing=south,status=online,blades=0,section=middle": {
+      "model": "mws:block/server_rack_online_0_middle",
+      "y": 180
+    },
+    "facing=west,status=online,blades=0,section=middle": {
+      "model": "mws:block/server_rack_online_0_middle",
+      "y": 270
+    },
+    "facing=north,status=online,blades=0,section=top": {
+      "model": "mws:block/server_rack_online_0_top"
+    },
+    "facing=east,status=online,blades=0,section=top": {
+      "model": "mws:block/server_rack_online_0_top",
+      "y": 90
+    },
+    "facing=south,status=online,blades=0,section=top": {
+      "model": "mws:block/server_rack_online_0_top",
+      "y": 180
+    },
+    "facing=west,status=online,blades=0,section=top": {
+      "model": "mws:block/server_rack_online_0_top",
+      "y": 270
+    },
+    "facing=north,status=online,blades=1,section=single": {
+      "model": "mws:block/server_rack_online_1_single"
+    },
+    "facing=east,status=online,blades=1,section=single": {
+      "model": "mws:block/server_rack_online_1_single",
+      "y": 90
+    },
+    "facing=south,status=online,blades=1,section=single": {
+      "model": "mws:block/server_rack_online_1_single",
+      "y": 180
+    },
+    "facing=west,status=online,blades=1,section=single": {
+      "model": "mws:block/server_rack_online_1_single",
+      "y": 270
+    },
+    "facing=north,status=online,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_online_1_bottom"
+    },
+    "facing=east,status=online,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_online_1_bottom",
+      "y": 90
+    },
+    "facing=south,status=online,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_online_1_bottom",
+      "y": 180
+    },
+    "facing=west,status=online,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_online_1_bottom",
+      "y": 270
+    },
+    "facing=north,status=online,blades=1,section=middle": {
+      "model": "mws:block/server_rack_online_1_middle"
+    },
+    "facing=east,status=online,blades=1,section=middle": {
+      "model": "mws:block/server_rack_online_1_middle",
+      "y": 90
+    },
+    "facing=south,status=online,blades=1,section=middle": {
+      "model": "mws:block/server_rack_online_1_middle",
+      "y": 180
+    },
+    "facing=west,status=online,blades=1,section=middle": {
+      "model": "mws:block/server_rack_online_1_middle",
+      "y": 270
+    },
+    "facing=north,status=online,blades=1,section=top": {
+      "model": "mws:block/server_rack_online_1_top"
+    },
+    "facing=east,status=online,blades=1,section=top": {
+      "model": "mws:block/server_rack_online_1_top",
+      "y": 90
+    },
+    "facing=south,status=online,blades=1,section=top": {
+      "model": "mws:block/server_rack_online_1_top",
+      "y": 180
+    },
+    "facing=west,status=online,blades=1,section=top": {
+      "model": "mws:block/server_rack_online_1_top",
+      "y": 270
+    },
+    "facing=north,status=online,blades=2,section=single": {
+      "model": "mws:block/server_rack_online_2_single"
+    },
+    "facing=east,status=online,blades=2,section=single": {
+      "model": "mws:block/server_rack_online_2_single",
+      "y": 90
+    },
+    "facing=south,status=online,blades=2,section=single": {
+      "model": "mws:block/server_rack_online_2_single",
+      "y": 180
+    },
+    "facing=west,status=online,blades=2,section=single": {
+      "model": "mws:block/server_rack_online_2_single",
+      "y": 270
+    },
+    "facing=north,status=online,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_online_2_bottom"
+    },
+    "facing=east,status=online,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_online_2_bottom",
+      "y": 90
+    },
+    "facing=south,status=online,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_online_2_bottom",
+      "y": 180
+    },
+    "facing=west,status=online,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_online_2_bottom",
+      "y": 270
+    },
+    "facing=north,status=online,blades=2,section=middle": {
+      "model": "mws:block/server_rack_online_2_middle"
+    },
+    "facing=east,status=online,blades=2,section=middle": {
+      "model": "mws:block/server_rack_online_2_middle",
+      "y": 90
+    },
+    "facing=south,status=online,blades=2,section=middle": {
+      "model": "mws:block/server_rack_online_2_middle",
+      "y": 180
+    },
+    "facing=west,status=online,blades=2,section=middle": {
+      "model": "mws:block/server_rack_online_2_middle",
+      "y": 270
+    },
+    "facing=north,status=online,blades=2,section=top": {
+      "model": "mws:block/server_rack_online_2_top"
+    },
+    "facing=east,status=online,blades=2,section=top": {
+      "model": "mws:block/server_rack_online_2_top",
+      "y": 90
+    },
+    "facing=south,status=online,blades=2,section=top": {
+      "model": "mws:block/server_rack_online_2_top",
+      "y": 180
+    },
+    "facing=west,status=online,blades=2,section=top": {
+      "model": "mws:block/server_rack_online_2_top",
+      "y": 270
+    },
+    "facing=north,status=online,blades=3,section=single": {
+      "model": "mws:block/server_rack_online_3_single"
+    },
+    "facing=east,status=online,blades=3,section=single": {
+      "model": "mws:block/server_rack_online_3_single",
+      "y": 90
+    },
+    "facing=south,status=online,blades=3,section=single": {
+      "model": "mws:block/server_rack_online_3_single",
+      "y": 180
+    },
+    "facing=west,status=online,blades=3,section=single": {
+      "model": "mws:block/server_rack_online_3_single",
+      "y": 270
+    },
+    "facing=north,status=online,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_online_3_bottom"
+    },
+    "facing=east,status=online,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_online_3_bottom",
+      "y": 90
+    },
+    "facing=south,status=online,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_online_3_bottom",
+      "y": 180
+    },
+    "facing=west,status=online,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_online_3_bottom",
+      "y": 270
+    },
+    "facing=north,status=online,blades=3,section=middle": {
+      "model": "mws:block/server_rack_online_3_middle"
+    },
+    "facing=east,status=online,blades=3,section=middle": {
+      "model": "mws:block/server_rack_online_3_middle",
+      "y": 90
+    },
+    "facing=south,status=online,blades=3,section=middle": {
+      "model": "mws:block/server_rack_online_3_middle",
+      "y": 180
+    },
+    "facing=west,status=online,blades=3,section=middle": {
+      "model": "mws:block/server_rack_online_3_middle",
+      "y": 270
+    },
+    "facing=north,status=online,blades=3,section=top": {
+      "model": "mws:block/server_rack_online_3_top"
+    },
+    "facing=east,status=online,blades=3,section=top": {
+      "model": "mws:block/server_rack_online_3_top",
+      "y": 90
+    },
+    "facing=south,status=online,blades=3,section=top": {
+      "model": "mws:block/server_rack_online_3_top",
+      "y": 180
+    },
+    "facing=west,status=online,blades=3,section=top": {
+      "model": "mws:block/server_rack_online_3_top",
+      "y": 270
+    },
+    "facing=north,status=online,blades=4,section=single": {
+      "model": "mws:block/server_rack_online_4_single"
+    },
+    "facing=east,status=online,blades=4,section=single": {
+      "model": "mws:block/server_rack_online_4_single",
+      "y": 90
+    },
+    "facing=south,status=online,blades=4,section=single": {
+      "model": "mws:block/server_rack_online_4_single",
+      "y": 180
+    },
+    "facing=west,status=online,blades=4,section=single": {
+      "model": "mws:block/server_rack_online_4_single",
+      "y": 270
+    },
+    "facing=north,status=online,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_online_4_bottom"
+    },
+    "facing=east,status=online,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_online_4_bottom",
+      "y": 90
+    },
+    "facing=south,status=online,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_online_4_bottom",
+      "y": 180
+    },
+    "facing=west,status=online,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_online_4_bottom",
+      "y": 270
+    },
+    "facing=north,status=online,blades=4,section=middle": {
+      "model": "mws:block/server_rack_online_4_middle"
+    },
+    "facing=east,status=online,blades=4,section=middle": {
+      "model": "mws:block/server_rack_online_4_middle",
+      "y": 90
+    },
+    "facing=south,status=online,blades=4,section=middle": {
+      "model": "mws:block/server_rack_online_4_middle",
+      "y": 180
+    },
+    "facing=west,status=online,blades=4,section=middle": {
+      "model": "mws:block/server_rack_online_4_middle",
+      "y": 270
+    },
+    "facing=north,status=online,blades=4,section=top": {
+      "model": "mws:block/server_rack_online_4_top"
+    },
+    "facing=east,status=online,blades=4,section=top": {
+      "model": "mws:block/server_rack_online_4_top",
+      "y": 90
+    },
+    "facing=south,status=online,blades=4,section=top": {
+      "model": "mws:block/server_rack_online_4_top",
+      "y": 180
+    },
+    "facing=west,status=online,blades=4,section=top": {
+      "model": "mws:block/server_rack_online_4_top",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=0,section=single": {
+      "model": "mws:block/server_rack_fault_0_single"
+    },
+    "facing=east,status=fault,blades=0,section=single": {
+      "model": "mws:block/server_rack_fault_0_single",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=0,section=single": {
+      "model": "mws:block/server_rack_fault_0_single",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=0,section=single": {
+      "model": "mws:block/server_rack_fault_0_single",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_fault_0_bottom"
+    },
+    "facing=east,status=fault,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_fault_0_bottom",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_fault_0_bottom",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_fault_0_bottom",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=0,section=middle": {
+      "model": "mws:block/server_rack_fault_0_middle"
+    },
+    "facing=east,status=fault,blades=0,section=middle": {
+      "model": "mws:block/server_rack_fault_0_middle",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=0,section=middle": {
+      "model": "mws:block/server_rack_fault_0_middle",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=0,section=middle": {
+      "model": "mws:block/server_rack_fault_0_middle",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=0,section=top": {
+      "model": "mws:block/server_rack_fault_0_top"
+    },
+    "facing=east,status=fault,blades=0,section=top": {
+      "model": "mws:block/server_rack_fault_0_top",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=0,section=top": {
+      "model": "mws:block/server_rack_fault_0_top",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=0,section=top": {
+      "model": "mws:block/server_rack_fault_0_top",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=1,section=single": {
+      "model": "mws:block/server_rack_fault_1_single"
+    },
+    "facing=east,status=fault,blades=1,section=single": {
+      "model": "mws:block/server_rack_fault_1_single",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=1,section=single": {
+      "model": "mws:block/server_rack_fault_1_single",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=1,section=single": {
+      "model": "mws:block/server_rack_fault_1_single",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_fault_1_bottom"
+    },
+    "facing=east,status=fault,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_fault_1_bottom",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_fault_1_bottom",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_fault_1_bottom",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=1,section=middle": {
+      "model": "mws:block/server_rack_fault_1_middle"
+    },
+    "facing=east,status=fault,blades=1,section=middle": {
+      "model": "mws:block/server_rack_fault_1_middle",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=1,section=middle": {
+      "model": "mws:block/server_rack_fault_1_middle",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=1,section=middle": {
+      "model": "mws:block/server_rack_fault_1_middle",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=1,section=top": {
+      "model": "mws:block/server_rack_fault_1_top"
+    },
+    "facing=east,status=fault,blades=1,section=top": {
+      "model": "mws:block/server_rack_fault_1_top",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=1,section=top": {
+      "model": "mws:block/server_rack_fault_1_top",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=1,section=top": {
+      "model": "mws:block/server_rack_fault_1_top",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=2,section=single": {
+      "model": "mws:block/server_rack_fault_2_single"
+    },
+    "facing=east,status=fault,blades=2,section=single": {
+      "model": "mws:block/server_rack_fault_2_single",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=2,section=single": {
+      "model": "mws:block/server_rack_fault_2_single",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=2,section=single": {
+      "model": "mws:block/server_rack_fault_2_single",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_fault_2_bottom"
+    },
+    "facing=east,status=fault,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_fault_2_bottom",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_fault_2_bottom",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_fault_2_bottom",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=2,section=middle": {
+      "model": "mws:block/server_rack_fault_2_middle"
+    },
+    "facing=east,status=fault,blades=2,section=middle": {
+      "model": "mws:block/server_rack_fault_2_middle",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=2,section=middle": {
+      "model": "mws:block/server_rack_fault_2_middle",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=2,section=middle": {
+      "model": "mws:block/server_rack_fault_2_middle",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=2,section=top": {
+      "model": "mws:block/server_rack_fault_2_top"
+    },
+    "facing=east,status=fault,blades=2,section=top": {
+      "model": "mws:block/server_rack_fault_2_top",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=2,section=top": {
+      "model": "mws:block/server_rack_fault_2_top",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=2,section=top": {
+      "model": "mws:block/server_rack_fault_2_top",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=3,section=single": {
+      "model": "mws:block/server_rack_fault_3_single"
+    },
+    "facing=east,status=fault,blades=3,section=single": {
+      "model": "mws:block/server_rack_fault_3_single",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=3,section=single": {
+      "model": "mws:block/server_rack_fault_3_single",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=3,section=single": {
+      "model": "mws:block/server_rack_fault_3_single",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_fault_3_bottom"
+    },
+    "facing=east,status=fault,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_fault_3_bottom",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_fault_3_bottom",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_fault_3_bottom",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=3,section=middle": {
+      "model": "mws:block/server_rack_fault_3_middle"
+    },
+    "facing=east,status=fault,blades=3,section=middle": {
+      "model": "mws:block/server_rack_fault_3_middle",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=3,section=middle": {
+      "model": "mws:block/server_rack_fault_3_middle",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=3,section=middle": {
+      "model": "mws:block/server_rack_fault_3_middle",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=3,section=top": {
+      "model": "mws:block/server_rack_fault_3_top"
+    },
+    "facing=east,status=fault,blades=3,section=top": {
+      "model": "mws:block/server_rack_fault_3_top",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=3,section=top": {
+      "model": "mws:block/server_rack_fault_3_top",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=3,section=top": {
+      "model": "mws:block/server_rack_fault_3_top",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=4,section=single": {
+      "model": "mws:block/server_rack_fault_4_single"
+    },
+    "facing=east,status=fault,blades=4,section=single": {
+      "model": "mws:block/server_rack_fault_4_single",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=4,section=single": {
+      "model": "mws:block/server_rack_fault_4_single",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=4,section=single": {
+      "model": "mws:block/server_rack_fault_4_single",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_fault_4_bottom"
+    },
+    "facing=east,status=fault,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_fault_4_bottom",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_fault_4_bottom",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_fault_4_bottom",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=4,section=middle": {
+      "model": "mws:block/server_rack_fault_4_middle"
+    },
+    "facing=east,status=fault,blades=4,section=middle": {
+      "model": "mws:block/server_rack_fault_4_middle",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=4,section=middle": {
+      "model": "mws:block/server_rack_fault_4_middle",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=4,section=middle": {
+      "model": "mws:block/server_rack_fault_4_middle",
+      "y": 270
+    },
+    "facing=north,status=fault,blades=4,section=top": {
+      "model": "mws:block/server_rack_fault_4_top"
+    },
+    "facing=east,status=fault,blades=4,section=top": {
+      "model": "mws:block/server_rack_fault_4_top",
+      "y": 90
+    },
+    "facing=south,status=fault,blades=4,section=top": {
+      "model": "mws:block/server_rack_fault_4_top",
+      "y": 180
+    },
+    "facing=west,status=fault,blades=4,section=top": {
+      "model": "mws:block/server_rack_fault_4_top",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=0,section=single": {
+      "model": "mws:block/server_rack_overheated_0_single"
+    },
+    "facing=east,status=overheated,blades=0,section=single": {
+      "model": "mws:block/server_rack_overheated_0_single",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=0,section=single": {
+      "model": "mws:block/server_rack_overheated_0_single",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=0,section=single": {
+      "model": "mws:block/server_rack_overheated_0_single",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_overheated_0_bottom"
+    },
+    "facing=east,status=overheated,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_overheated_0_bottom",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_overheated_0_bottom",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=0,section=bottom": {
+      "model": "mws:block/server_rack_overheated_0_bottom",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=0,section=middle": {
+      "model": "mws:block/server_rack_overheated_0_middle"
+    },
+    "facing=east,status=overheated,blades=0,section=middle": {
+      "model": "mws:block/server_rack_overheated_0_middle",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=0,section=middle": {
+      "model": "mws:block/server_rack_overheated_0_middle",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=0,section=middle": {
+      "model": "mws:block/server_rack_overheated_0_middle",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=0,section=top": {
+      "model": "mws:block/server_rack_overheated_0_top"
+    },
+    "facing=east,status=overheated,blades=0,section=top": {
+      "model": "mws:block/server_rack_overheated_0_top",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=0,section=top": {
+      "model": "mws:block/server_rack_overheated_0_top",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=0,section=top": {
+      "model": "mws:block/server_rack_overheated_0_top",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=1,section=single": {
+      "model": "mws:block/server_rack_overheated_1_single"
+    },
+    "facing=east,status=overheated,blades=1,section=single": {
+      "model": "mws:block/server_rack_overheated_1_single",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=1,section=single": {
+      "model": "mws:block/server_rack_overheated_1_single",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=1,section=single": {
+      "model": "mws:block/server_rack_overheated_1_single",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_overheated_1_bottom"
+    },
+    "facing=east,status=overheated,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_overheated_1_bottom",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_overheated_1_bottom",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=1,section=bottom": {
+      "model": "mws:block/server_rack_overheated_1_bottom",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=1,section=middle": {
+      "model": "mws:block/server_rack_overheated_1_middle"
+    },
+    "facing=east,status=overheated,blades=1,section=middle": {
+      "model": "mws:block/server_rack_overheated_1_middle",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=1,section=middle": {
+      "model": "mws:block/server_rack_overheated_1_middle",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=1,section=middle": {
+      "model": "mws:block/server_rack_overheated_1_middle",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=1,section=top": {
+      "model": "mws:block/server_rack_overheated_1_top"
+    },
+    "facing=east,status=overheated,blades=1,section=top": {
+      "model": "mws:block/server_rack_overheated_1_top",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=1,section=top": {
+      "model": "mws:block/server_rack_overheated_1_top",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=1,section=top": {
+      "model": "mws:block/server_rack_overheated_1_top",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=2,section=single": {
+      "model": "mws:block/server_rack_overheated_2_single"
+    },
+    "facing=east,status=overheated,blades=2,section=single": {
+      "model": "mws:block/server_rack_overheated_2_single",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=2,section=single": {
+      "model": "mws:block/server_rack_overheated_2_single",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=2,section=single": {
+      "model": "mws:block/server_rack_overheated_2_single",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_overheated_2_bottom"
+    },
+    "facing=east,status=overheated,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_overheated_2_bottom",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_overheated_2_bottom",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=2,section=bottom": {
+      "model": "mws:block/server_rack_overheated_2_bottom",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=2,section=middle": {
+      "model": "mws:block/server_rack_overheated_2_middle"
+    },
+    "facing=east,status=overheated,blades=2,section=middle": {
+      "model": "mws:block/server_rack_overheated_2_middle",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=2,section=middle": {
+      "model": "mws:block/server_rack_overheated_2_middle",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=2,section=middle": {
+      "model": "mws:block/server_rack_overheated_2_middle",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=2,section=top": {
+      "model": "mws:block/server_rack_overheated_2_top"
+    },
+    "facing=east,status=overheated,blades=2,section=top": {
+      "model": "mws:block/server_rack_overheated_2_top",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=2,section=top": {
+      "model": "mws:block/server_rack_overheated_2_top",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=2,section=top": {
+      "model": "mws:block/server_rack_overheated_2_top",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=3,section=single": {
+      "model": "mws:block/server_rack_overheated_3_single"
+    },
+    "facing=east,status=overheated,blades=3,section=single": {
+      "model": "mws:block/server_rack_overheated_3_single",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=3,section=single": {
+      "model": "mws:block/server_rack_overheated_3_single",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=3,section=single": {
+      "model": "mws:block/server_rack_overheated_3_single",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_overheated_3_bottom"
+    },
+    "facing=east,status=overheated,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_overheated_3_bottom",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_overheated_3_bottom",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=3,section=bottom": {
+      "model": "mws:block/server_rack_overheated_3_bottom",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=3,section=middle": {
+      "model": "mws:block/server_rack_overheated_3_middle"
+    },
+    "facing=east,status=overheated,blades=3,section=middle": {
+      "model": "mws:block/server_rack_overheated_3_middle",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=3,section=middle": {
+      "model": "mws:block/server_rack_overheated_3_middle",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=3,section=middle": {
+      "model": "mws:block/server_rack_overheated_3_middle",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=3,section=top": {
+      "model": "mws:block/server_rack_overheated_3_top"
+    },
+    "facing=east,status=overheated,blades=3,section=top": {
+      "model": "mws:block/server_rack_overheated_3_top",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=3,section=top": {
+      "model": "mws:block/server_rack_overheated_3_top",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=3,section=top": {
+      "model": "mws:block/server_rack_overheated_3_top",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=4,section=single": {
+      "model": "mws:block/server_rack_overheated_4_single"
+    },
+    "facing=east,status=overheated,blades=4,section=single": {
+      "model": "mws:block/server_rack_overheated_4_single",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=4,section=single": {
+      "model": "mws:block/server_rack_overheated_4_single",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=4,section=single": {
+      "model": "mws:block/server_rack_overheated_4_single",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_overheated_4_bottom"
+    },
+    "facing=east,status=overheated,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_overheated_4_bottom",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_overheated_4_bottom",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=4,section=bottom": {
+      "model": "mws:block/server_rack_overheated_4_bottom",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=4,section=middle": {
+      "model": "mws:block/server_rack_overheated_4_middle"
+    },
+    "facing=east,status=overheated,blades=4,section=middle": {
+      "model": "mws:block/server_rack_overheated_4_middle",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=4,section=middle": {
+      "model": "mws:block/server_rack_overheated_4_middle",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=4,section=middle": {
+      "model": "mws:block/server_rack_overheated_4_middle",
+      "y": 270
+    },
+    "facing=north,status=overheated,blades=4,section=top": {
+      "model": "mws:block/server_rack_overheated_4_top"
+    },
+    "facing=east,status=overheated,blades=4,section=top": {
+      "model": "mws:block/server_rack_overheated_4_top",
+      "y": 90
+    },
+    "facing=south,status=overheated,blades=4,section=top": {
+      "model": "mws:block/server_rack_overheated_4_top",
+      "y": 180
+    },
+    "facing=west,status=overheated,blades=4,section=top": {
+      "model": "mws:block/server_rack_overheated_4_top",
+      "y": 270
+    }
+  }
+}

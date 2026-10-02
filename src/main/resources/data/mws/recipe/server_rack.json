@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SBS",
+    "S S",
+    "SCS"
+  ],
+  "key": {
+    "S": {
+      "item": "create:iron_sheet"
+    },
+    "B": {
+      "item": "create:brass_casing"
+    },
+    "C": {
+      "item": "powergrid:copper_coil"
+    }
+  },
+  "result": {
+    "id": "mws:server_rack",
+    "count": 1
+  }
+}

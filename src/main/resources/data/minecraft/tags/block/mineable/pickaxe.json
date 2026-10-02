@@ -1,0 +1,8 @@
+{
+  "values": [
+    "mws:server_rack",
+    "mws:ups",
+    "mws:chiller",
+    "mws:water_intake"
+  ]
+}

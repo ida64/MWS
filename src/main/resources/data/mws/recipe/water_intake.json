@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SGS",
+    "PMP",
+    "SCS"
+  ],
+  "key": {
+    "S": {
+      "item": "create:copper_sheet"
+    },
+    "G": {
+      "item": "minecraft:iron_bars"
+    },
+    "P": {
+      "item": "create:fluid_pipe"
+    },
+    "M": {
+      "item": "powergrid:electric_pump"
+    },
+    "C": {
+      "item": "create:copper_casing"
+    }
+  },
+  "result": {
+    "id": "mws:water_intake",
+    "count": 1
+  }
+}

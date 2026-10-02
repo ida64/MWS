@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "mws:block/server_rack_side_top",
+    "north": "mws:block/server_rack_back_member",
+    "south": "mws:block/server_rack_front_booting_4",
+    "east": "mws:block/server_rack_side_top",
+    "west": "mws:block/server_rack_side_top",
+    "up": "mws:block/server_rack_top",
+    "down": "mws:block/server_rack_top"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SIS",
+    "CTC"
+  ],
+  "key": {
+    "S": {
+      "item": "create:iron_sheet"
+    },
+    "I": {
+      "item": "powergrid:integrated_circuit"
+    },
+    "C": {
+      "item": "powergrid:capacitor"
+    },
+    "T": {
+      "item": "create:electron_tube"
+    }
+  },
+  "result": {
+    "id": "mws:server_blade",
+    "count": 1
+  }
+}

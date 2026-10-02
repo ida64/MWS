@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "mws:block/water_intake_side",
+    "north": "mws:block/water_intake_back",
+    "south": "mws:block/water_intake_front_active",
+    "east": "mws:block/water_intake_side",
+    "west": "mws:block/water_intake_side",
+    "up": "mws:block/water_intake_side",
+    "down": "mws:block/water_intake_side"
+  }
+}

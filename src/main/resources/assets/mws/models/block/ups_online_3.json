@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "mws:block/ups_side",
+    "north": "mws:block/ups_back",
+    "south": "mws:block/ups_front_online_3",
+    "east": "mws:block/ups_side",
+    "west": "mws:block/ups_side",
+    "up": "mws:block/ups_side",
+    "down": "mws:block/ups_side"
+  }
+}

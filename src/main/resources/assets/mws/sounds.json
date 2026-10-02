@@ -1,0 +1,6 @@
+{
+  "rack_fan": {
+    "sounds": [{ "name": "mws:rack_fan", "attenuation_distance": 10 }],
+    "subtitle": "subtitles.mws.rack_fan"
+  }
+}

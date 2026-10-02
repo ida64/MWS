@@ -1,0 +1,379 @@
+{
+  "variants": {
+    "facing=north,mode=off,charge=0": {
+      "model": "mws:block/ups_off_0"
+    },
+    "facing=east,mode=off,charge=0": {
+      "model": "mws:block/ups_off_0",
+      "y": 90
+    },
+    "facing=south,mode=off,charge=0": {
+      "model": "mws:block/ups_off_0",
+      "y": 180
+    },
+    "facing=west,mode=off,charge=0": {
+      "model": "mws:block/ups_off_0",
+      "y": 270
+    },
+    "facing=north,mode=off,charge=1": {
+      "model": "mws:block/ups_off_1"
+    },
+    "facing=east,mode=off,charge=1": {
+      "model": "mws:block/ups_off_1",
+      "y": 90
+    },
+    "facing=south,mode=off,charge=1": {
+      "model": "mws:block/ups_off_1",
+      "y": 180
+    },
+    "facing=west,mode=off,charge=1": {
+      "model": "mws:block/ups_off_1",
+      "y": 270
+    },
+    "facing=north,mode=off,charge=2": {
+      "model": "mws:block/ups_off_2"
+    },
+    "facing=east,mode=off,charge=2": {
+      "model": "mws:block/ups_off_2",
+      "y": 90
+    },
+    "facing=south,mode=off,charge=2": {
+      "model": "mws:block/ups_off_2",
+      "y": 180
+    },
+    "facing=west,mode=off,charge=2": {
+      "model": "mws:block/ups_off_2",
+      "y": 270
+    },
+    "facing=north,mode=off,charge=3": {
+      "model": "mws:block/ups_off_3"
+    },
+    "facing=east,mode=off,charge=3": {
+      "model": "mws:block/ups_off_3",
+      "y": 90
+    },
+    "facing=south,mode=off,charge=3": {
+      "model": "mws:block/ups_off_3",
+      "y": 180
+    },
+    "facing=west,mode=off,charge=3": {
+      "model": "mws:block/ups_off_3",
+      "y": 270
+    },
+    "facing=north,mode=off,charge=4": {
+      "model": "mws:block/ups_off_4"
+    },
+    "facing=east,mode=off,charge=4": {
+      "model": "mws:block/ups_off_4",
+      "y": 90
+    },
+    "facing=south,mode=off,charge=4": {
+      "model": "mws:block/ups_off_4",
+      "y": 180
+    },
+    "facing=west,mode=off,charge=4": {
+      "model": "mws:block/ups_off_4",
+      "y": 270
+    },
+    "facing=north,mode=online,charge=0": {
+      "model": "mws:block/ups_online_0"
+    },
+    "facing=east,mode=online,charge=0": {
+      "model": "mws:block/ups_online_0",
+      "y": 90
+    },
+    "facing=south,mode=online,charge=0": {
+      "model": "mws:block/ups_online_0",
+      "y": 180
+    },
+    "facing=west,mode=online,charge=0": {
+      "model": "mws:block/ups_online_0",
+      "y": 270
+    },
+    "facing=north,mode=online,charge=1": {
+      "model": "mws:block/ups_online_1"
+    },
+    "facing=east,mode=online,charge=1": {
+      "model": "mws:block/ups_online_1",
+      "y": 90
+    },
+    "facing=south,mode=online,charge=1": {
+      "model": "mws:block/ups_online_1",
+      "y": 180
+    },
+    "facing=west,mode=online,charge=1": {
+      "model": "mws:block/ups_online_1",
+      "y": 270
+    },
+    "facing=north,mode=online,charge=2": {
+      "model": "mws:block/ups_online_2"
+    },
+    "facing=east,mode=online,charge=2": {
+      "model": "mws:block/ups_online_2",
+      "y": 90
+    },
+    "facing=south,mode=online,charge=2": {
+      "model": "mws:block/ups_online_2",
+      "y": 180
+    },
+    "facing=west,mode=online,charge=2": {
+      "model": "mws:block/ups_online_2",
+      "y": 270
+    },
+    "facing=north,mode=online,charge=3": {
+      "model": "mws:block/ups_online_3"
+    },
+    "facing=east,mode=online,charge=3": {
+      "model": "mws:block/ups_online_3",
+      "y": 90
+    },
+    "facing=south,mode=online,charge=3": {
+      "model": "mws:block/ups_online_3",
+      "y": 180
+    },
+    "facing=west,mode=online,charge=3": {
+      "model": "mws:block/ups_online_3",
+      "y": 270
+    },
+    "facing=north,mode=online,charge=4": {
+      "model": "mws:block/ups_online_4"
+    },
+    "facing=east,mode=online,charge=4": {
+      "model": "mws:block/ups_online_4",
+      "y": 90
+    },
+    "facing=south,mode=online,charge=4": {
+      "model": "mws:block/ups_online_4",
+      "y": 180
+    },
+    "facing=west,mode=online,charge=4": {
+      "model": "mws:block/ups_online_4",
+      "y": 270
+    },
+    "facing=north,mode=battery,charge=0": {
+      "model": "mws:block/ups_battery_0"
+    },
+    "facing=east,mode=battery,charge=0": {
+      "model": "mws:block/ups_battery_0",
+      "y": 90
+    },
+    "facing=south,mode=battery,charge=0": {
+      "model": "mws:block/ups_battery_0",
+      "y": 180
+    },
+    "facing=west,mode=battery,charge=0": {
+      "model": "mws:block/ups_battery_0",
+      "y": 270
+    },
+    "facing=north,mode=battery,charge=1": {
+      "model": "mws:block/ups_battery_1"
+    },
+    "facing=east,mode=battery,charge=1": {
+      "model": "mws:block/ups_battery_1",
+      "y": 90
+    },
+    "facing=south,mode=battery,charge=1": {
+      "model": "mws:block/ups_battery_1",
+      "y": 180
+    },
+    "facing=west,mode=battery,charge=1": {
+      "model": "mws:block/ups_battery_1",
+      "y": 270
+    },
+    "facing=north,mode=battery,charge=2": {
+      "model": "mws:block/ups_battery_2"
+    },
+    "facing=east,mode=battery,charge=2": {
+      "model": "mws:block/ups_battery_2",
+      "y": 90
+    },
+    "facing=south,mode=battery,charge=2": {
+      "model": "mws:block/ups_battery_2",
+      "y": 180
+    },
+    "facing=west,mode=battery,charge=2": {
+      "model": "mws:block/ups_battery_2",
+      "y": 270
+    },
+    "facing=north,mode=battery,charge=3": {
+      "model": "mws:block/ups_battery_3"
+    },
+    "facing=east,mode=battery,charge=3": {
+      "model": "mws:block/ups_battery_3",
+      "y": 90
+    },
+    "facing=south,mode=battery,charge=3": {
+      "model": "mws:block/ups_battery_3",
+      "y": 180
+    },
+    "facing=west,mode=battery,charge=3": {
+      "model": "mws:block/ups_battery_3",
+      "y": 270
+    },
+    "facing=north,mode=battery,charge=4": {
+      "model": "mws:block/ups_battery_4"
+    },
+    "facing=east,mode=battery,charge=4": {
+      "model": "mws:block/ups_battery_4",
+      "y": 90
+    },
+    "facing=south,mode=battery,charge=4": {
+      "model": "mws:block/ups_battery_4",
+      "y": 180
+    },
+    "facing=west,mode=battery,charge=4": {
+      "model": "mws:block/ups_battery_4",
+      "y": 270
+    },
+    "facing=north,mode=depleted,charge=0": {
+      "model": "mws:block/ups_depleted_0"
+    },
+    "facing=east,mode=depleted,charge=0": {
+      "model": "mws:block/ups_depleted_0",
+      "y": 90
+    },
+    "facing=south,mode=depleted,charge=0": {
+      "model": "mws:block/ups_depleted_0",
+      "y": 180
+    },
+    "facing=west,mode=depleted,charge=0": {
+      "model": "mws:block/ups_depleted_0",
+      "y": 270
+    },
+    "facing=north,mode=depleted,charge=1": {
+      "model": "mws:block/ups_depleted_1"
+    },
+    "facing=east,mode=depleted,charge=1": {
+      "model": "mws:block/ups_depleted_1",
+      "y": 90
+    },
+    "facing=south,mode=depleted,charge=1": {
+      "model": "mws:block/ups_depleted_1",
+      "y": 180
+    },
+    "facing=west,mode=depleted,charge=1": {
+      "model": "mws:block/ups_depleted_1",
+      "y": 270
+    },
+    "facing=north,mode=depleted,charge=2": {
+      "model": "mws:block/ups_depleted_2"
+    },
+    "facing=east,mode=depleted,charge=2": {
+      "model": "mws:block/ups_depleted_2",
+      "y": 90
+    },
+    "facing=south,mode=depleted,charge=2": {
+      "model": "mws:block/ups_depleted_2",
+      "y": 180
+    },
+    "facing=west,mode=depleted,charge=2": {
+      "model": "mws:block/ups_depleted_2",
+      "y": 270
+    },
+    "facing=north,mode=depleted,charge=3": {
+      "model": "mws:block/ups_depleted_3"
+    },
+    "facing=east,mode=depleted,charge=3": {
+      "model": "mws:block/ups_depleted_3",
+      "y": 90
+    },
+    "facing=south,mode=depleted,charge=3": {
+      "model": "mws:block/ups_depleted_3",
+      "y": 180
+    },
+    "facing=west,mode=depleted,charge=3": {
+      "model": "mws:block/ups_depleted_3",
+      "y": 270
+    },
+    "facing=north,mode=depleted,charge=4": {
+      "model": "mws:block/ups_depleted_4"
+    },
+    "facing=east,mode=depleted,charge=4": {
+      "model": "mws:block/ups_depleted_4",
+      "y": 90
+    },
+    "facing=south,mode=depleted,charge=4": {
+      "model": "mws:block/ups_depleted_4",
+      "y": 180
+    },
+    "facing=west,mode=depleted,charge=4": {
+      "model": "mws:block/ups_depleted_4",
+      "y": 270
+    },
+    "facing=north,mode=overload,charge=0": {
+      "model": "mws:block/ups_overload_0"
+    },
+    "facing=east,mode=overload,charge=0": {
+      "model": "mws:block/ups_overload_0",
+      "y": 90
+    },
+    "facing=south,mode=overload,charge=0": {
+      "model": "mws:block/ups_overload_0",
+      "y": 180
+    },
+    "facing=west,mode=overload,charge=0": {
+      "model": "mws:block/ups_overload_0",
+      "y": 270
+    },
+    "facing=north,mode=overload,charge=1": {
+      "model": "mws:block/ups_overload_1"
+    },
+    "facing=east,mode=overload,charge=1": {
+      "model": "mws:block/ups_overload_1",
+      "y": 90
+    },
+    "facing=south,mode=overload,charge=1": {
+      "model": "mws:block/ups_overload_1",
+      "y": 180
+    },
+    "facing=west,mode=overload,charge=1": {
+      "model": "mws:block/ups_overload_1",
+      "y": 270
+    },
+    "facing=north,mode=overload,charge=2": {
+      "model": "mws:block/ups_overload_2"
+    },
+    "facing=east,mode=overload,charge=2": {
+      "model": "mws:block/ups_overload_2",
+      "y": 90
+    },
+    "facing=south,mode=overload,charge=2": {
+      "model": "mws:block/ups_overload_2",
+      "y": 180
+    },
+    "facing=west,mode=overload,charge=2": {
+      "model": "mws:block/ups_overload_2",
+      "y": 270
+    },
+    "facing=north,mode=overload,charge=3": {
+      "model": "mws:block/ups_overload_3"
+    },
+    "facing=east,mode=overload,charge=3": {
+      "model": "mws:block/ups_overload_3",
+      "y": 90
+    },
+    "facing=south,mode=overload,charge=3": {
+      "model": "mws:block/ups_overload_3",
+      "y": 180
+    },
+    "facing=west,mode=overload,charge=3": {
+      "model": "mws:block/ups_overload_3",
+      "y": 270
+    },
+    "facing=north,mode=overload,charge=4": {
+      "model": "mws:block/ups_overload_4"
+    },
+    "facing=east,mode=overload,charge=4": {
+      "model": "mws:block/ups_overload_4",
+      "y": 90
+    },
+    "facing=south,mode=overload,charge=4": {
+      "model": "mws:block/ups_overload_4",
+      "y": 180
+    },
+    "facing=west,mode=overload,charge=4": {
+      "model": "mws:block/ups_overload_4",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "mws:block/chiller_side",
+    "north": "mws:block/chiller_back",
+    "south": "mws:block/chiller_front_active",
+    "east": "mws:block/chiller_side",
+    "west": "mws:block/chiller_side",
+    "up": "mws:block/chiller_top",
+    "down": "mws:block/chiller_top"
+  }
+}
