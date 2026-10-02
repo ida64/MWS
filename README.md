@@ -80,4 +80,4 @@ Ponder scenes live in `client/ponder/MwsPonderScenes.java`. Two helper scripts k
 
 ## License
 
-All rights reserved.
+Feel free to include it in any mod packs, I don't care.
